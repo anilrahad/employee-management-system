@@ -1,8 +1,5 @@
 # Employee Management System — Java Swing
 
-![Language](https://img.shields.io/badge/Language-Java%2017-blue?logo=java)
-![IDE](https://img.shields.io/badge/IDE-Eclipse%202022--12-yellowgreen?logo=eclipse)
-![DB](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
 
 A desktop Employee Management System built with Java Swing and MySQL via JDBC.  
 Supports adding, updating, deleting, and displaying employee records.
