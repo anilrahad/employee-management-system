@@ -1,5 +1,3 @@
-This is a Java Swing application for managing employee information. This project was created using JDK 17 and Eclipse 2022-12.
-
 It has the following functionalities:
 
 **Add employee:** Allows you to add a new employee to the system by entering their personal and employment details. <br/>
