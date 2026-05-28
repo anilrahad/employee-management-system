@@ -76,11 +76,11 @@ final private static String password = "your_password_here";
 ```bash
 # Windows
 javac -cp "lib\mysql-connector-java-8.0.30.jar" -d bin src\project\*.java
-java  -cp "bin;lib\mysql-connector-java-8.0.30.jar" project.Window'
+java  -cp "bin;lib\mysql-connector-java-8.0.30.jar" project.Window'''
 
 
 
-### **Features**
+# **Features**
 
 | Feature | Description |
 |---|---|
