@@ -1,6 +1,5 @@
 # Employee Management System — Java Swing
 
-
 A desktop Employee Management System built with Java Swing and MySQL via JDBC.  
 Supports adding, updating, deleting, and displaying employee records.
 
