@@ -64,7 +64,6 @@ final private static String password = "your_password_here";
 **Option A — Double-click script (easiest)**
 
 - Windows: double-click `run.bat`
-- Mac/Linux: run `bash run.sh` in terminal
 
 **Option B — Eclipse**
 
@@ -78,13 +77,6 @@ final private static String password = "your_password_here";
 # Windows
 javac -cp "lib\mysql-connector-java-8.0.30.jar" -d bin src\project\*.java
 java  -cp "bin;lib\mysql-connector-java-8.0.30.jar" project.Window
-
-# Mac / Linux
-javac -cp "lib/mysql-connector-java-8.0.30.jar" -d bin src/project/*.java
-java  -cp "bin:lib/mysql-connector-java-8.0.30.jar" project.Window
-```
-
----
 
 ## Features
 
