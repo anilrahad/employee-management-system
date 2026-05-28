@@ -98,10 +98,3 @@ java  -cp "bin:lib/mysql-connector-java-8.0.30.jar" project.Window
 | Update employee | Click a row to load it, edit fields, click **UPDATE** |
 | Delete employee | Click a row, click **DELETE**, confirm the prompt |
 | Display all | All employees shown in a sortable JTable on launch |
-
----
-
-## Author
-
-**Prathamesh Dhande**  
-Demo on YouTube → [Watch here](https://youtu.be/8Mv5mN37nJM)
